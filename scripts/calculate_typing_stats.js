@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataPath = path.join(__dirname, '..', 'data', 'entertrained_stats_2026-05-07.json');
+const dataPath = path.join(__dirname, '..', 'data', 'entertrained_stats_2026-06-16.json');
 const readmePath = path.join(__dirname, '..', 'README.md');
 const statsPlaceholderStart = '<!-- START_TYPING_STATS -->';
 const statsPlaceholderEnd = '<!-- END_TYPING_STATS -->';
@@ -94,7 +94,7 @@ const after = readmeContent.substring(endIndex);
 
 const updatedReadme = `${before}
 ${newContent}
-${after}`;
+${after}`.replace(/\n?$/, '\n');
 
 fs.writeFileSync(readmePath, updatedReadme);
 
