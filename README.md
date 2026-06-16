@@ -7,12 +7,12 @@ I believe the best systems emerge from systematically engaging with real problem
 Second, I strongly believe that skills multiply. Finally, true expertise comes from going one level deeper: understanding how a system or process works internally, not just how to use it.
 
 One of my hobbies is type-reading, i.e., reading books by typing them out.
-Started it while learning a new keyboard layout, and since I already loved books, it naturally became a motivating habit that stayed with me ever since.
+Started it while learning a new keyboard layout, and since I already loved books, it naturally became a motivating habit that stayed with me ever since; below are a few stats from completed Entertrained books.
 
 
   <!-- START_TYPING_STATS -->
 <details>
-    <summary>A few details about the last completed book</summary>
+    <summary>A few details about completed Entertrained books</summary>
     <table>
       <tr>
         <td width="120" valign="top">
@@ -22,10 +22,26 @@ Started it while learning a new keyboard layout, and since I already loved books
         </td>
         <td valign="top">
           <strong><a href="https://entertrained.app/books/lewis-carroll--alices-adventures-in-wonderland">Alice's Adventures in Wonderland</a></strong>
+          <br>
+          <em>Lewis Carroll</em>
           <br><br>
           <img src="https://img.shields.io/badge/WPM-77.87-blue" alt="WPM"> <img src="https://img.shields.io/badge/Accuracy-97.60%25-green" alt="Accuracy"> <img src="https://img.shields.io/badge/Time-6h%207m-informational" alt="Time Spent"> <br> <img src="https://img.shields.io/badge/Words-28393-lightgrey" alt="Words"> <img src="https://img.shields.io/badge/Chars-141964-lightgrey" alt="Characters">
-            </td>
-          </tr>
-        </table>
-      </details>
+        </td>
+      </tr>
+      <tr>
+        <td width="120" valign="top">
+          <a href="https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest">
+            <img src="assets/The_Importance_of_Being_Earnest.jpg" alt="The Importance of Being Earnest book cover" width="100">
+          </a>
+        </td>
+        <td valign="top">
+          <strong><a href="https://entertrained.app/books/oscar-wilde--the-importance-of-being-earnest">The Importance of Being Earnest</a></strong>
+          <br>
+          <em>Oscar Wilde</em>
+          <br><br>
+          <img src="https://img.shields.io/badge/WPM-79.63-blue" alt="WPM"> <img src="https://img.shields.io/badge/Accuracy-97.24%25-green" alt="Accuracy"> <img src="https://img.shields.io/badge/Time-4h%2030m-informational" alt="Time Spent"> <br> <img src="https://img.shields.io/badge/Words-21301-lightgrey" alt="Words"> <img src="https://img.shields.io/badge/Chars-106506-lightgrey" alt="Characters">
+        </td>
+      </tr>
+    </table>
+  </details>
 <!-- END_TYPING_STATS -->
